@@ -1,0 +1,18 @@
+{
+  "name": "StageLog — Passaporte de Shows",
+  "short_name": "StageLog",
+  "description": "Marque shows passados e futuros, explore setlists por dia e colecione insígnias das músicas escutadas ao vivo.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B0D13",
+  "theme_color": "#FF4D2E",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Stage Coral Brand Tile -->
+    <path
+        android:fillColor="#FF5533"
+        android:pathData="M36,28h36c4.42,0 8,3.58 8,8v36c0,4.42 -3.58,8 -8,8H36c-4.42,0 -8,-3.58 -8,-8V36C28,31.58 31.58,28 36,28z" />
+    <!-- Vinyl Outer Ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.2"
+        android:pathData="M54,37a17,17 0,1 1,0 34a17,17 0,1 1,0 -34z" />
+    <!-- Groove Arc 1 -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.4"
+        android:strokeLineCap="round"
+        android:pathData="M43,54c0,-6.08 4.92,-11 11,-11" />
+    <!-- Groove Arc 2 -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.4"
+        android:strokeLineCap="round"
+        android:pathData="M65,54c0,6.08 -4.92,11 -11,11" />
+    <!-- Center Spindle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,50.5a3.5,3.5 0,1 1,0 7a3.5,3.5 0,1 1,0 -7z" />
+</vector>
